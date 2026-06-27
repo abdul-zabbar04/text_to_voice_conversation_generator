@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Django migrations
+*/migrations/
+
+# Media files
+media/
+
+# models
+models/
+
+# Environment variables
+.env
+
+# SQLite database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django collected static files
+staticfiles/
+
+# Local personal file
+my_personal_things.txt
