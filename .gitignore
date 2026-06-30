@@ -25,3 +25,6 @@ staticfiles/
 
 # Local personal file
 my_personal_things.txt
+
+# test files
+scripts/
